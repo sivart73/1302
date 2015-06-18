@@ -1,0 +1,53 @@
+
+ ----jGRASP exec: java Runs
+
+Tails Tails 
+Heads 
+Tails Tails 
+Heads Heads Heads Heads 
+Tails 
+Heads Heads 
+Tails Tails 
+Heads 
+Tails Tails 
+Heads Heads 
+Tails 
+Heads 
+Tails 
+Heads 
+Tails 
+Heads Heads 
+Tails 
+Heads Heads 
+Tails Tails 
+Heads Heads 
+Tails Tails Tails 
+Heads Heads Heads Heads Heads 
+Tails Tails 
+Heads Heads Heads 
+Tails Tails Tails Tails 
+Heads Heads 
+Tails 
+Heads 
+Tails Tails 
+Heads Heads Heads 
+Tails Tails Tails Tails Tails Tails Tails Tails 
+Heads 
+Tails Tails Tails 
+Heads Heads Heads 
+Tails Tails Tails 
+Heads Heads 
+Tails 
+Heads 
+Tails 
+Heads 
+Tails 
+Heads Heads Heads Heads Heads 
+Tails 
+Heads 
+Tails Tails 
+Heads Heads Heads Heads Heads Heads Heads 
+The maximum number of heads is: 7
+Coded by Travis Clement
+
+ ----jGRASP: operation complete.

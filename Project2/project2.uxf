@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>10</x>
+      <y>10</y>
+      <w>350</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>::PollArray
+--
+--
++PollArray():
++main(String[]): void
++checkResponse(int, int, int): boolean
++printAll(int[][][]): void
++countBySex(int[][][], int): void
++countByAgeSex(int[][][], int, int):String
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

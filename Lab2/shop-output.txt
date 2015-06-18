@@ -1,0 +1,104 @@
+Welcome to DrJava.  Working directory is /Users/travisclement/Google Drive/Summer2015/1302/Lab2
+> run Shop
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+Total so far = $135.0
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+boat	560.0	2	$1120.0
+Total so far = $1390.0
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+boat	560.0	2	$1120.0
+cat	34.0	30	$1020.0
+Total so far = $3665.0
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+boat	560.0	2	$1120.0
+cat	34.0	30	$1020.0
+dragon	0.25	2	$0.5
+Total so far = $5940.5
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+boat	560.0	2	$1120.0
+cat	34.0	30	$1020.0
+dragon	0.25	2	$0.5
+ear	5.0	3	$15.0
+Total so far = $8231.0
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+boat	560.0	2	$1120.0
+cat	34.0	30	$1020.0
+dragon	0.25	2	$0.5
+ear	5.0	3	$15.0
+fig	33.0	23	$759.0
+Total so far = $11280.5
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+boat	560.0	2	$1120.0
+cat	34.0	30	$1020.0
+dragon	0.25	2	$0.5
+ear	5.0	3	$15.0
+fig	33.0	23	$759.0
+grill	24.5	2	$49.0
+Total so far = $14379.0
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+boat	560.0	2	$1120.0
+cat	34.0	30	$1020.0
+dragon	0.25	2	$0.5
+ear	5.0	3	$15.0
+fig	33.0	23	$759.0
+grill	24.5	2	$49.0
+hammer	56.0	1	$56.0
+Total so far = $17533.5
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+Item	UnitPrice	Quantity	Total
+axle	45.0	3	$135.0
+boat	560.0	2	$1120.0
+cat	34.0	30	$1020.0
+dragon	0.25	2	$0.5
+ear	5.0	3	$15.0
+fig	33.0	23	$759.0
+grill	24.5	2	$49.0
+hammer	56.0	1	$56.0
+iron	23.99	1	$23.99
+Total so far = $20711.99
+Continue shopping (y/n)?  [DrJava Input Box]
+Total price = $20711.99
+Coded by Travis Clement
+> 

@@ -1,0 +1,18 @@
+
+ ----jGRASP exec: java BiasRuns with  bias set to .70
+Number of heads is: 69
+Number of tails is: 31
+Coded by Travis Clement
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BiasRuns  with bias set to .50
+Number of heads is: 52
+Number of tails is: 48
+Coded by Travis Clement
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BiasRuns with bias set to .30
+Number of heads is: 26
+Number of tails is: 74
+Coded by Travis Clement
+ ----jGRASP: operation complete.

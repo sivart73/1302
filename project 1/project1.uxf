@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>370</y>
+      <w>310</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>::Student
+--
+-name: String
+-idNumber: int
+-gpa: double
+--
++Student(int,String, double): ctor
++getName(): String
++getID(): int
++getGpa(): double
++setName(String): void
++setID(int): void
++setGpa(double): void
++toString(): String
++equals(Object): boolean
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>320</x>
+      <y>20</y>
+      <w>340</w>
+      <h>230</h>
+    </coordinates>
+    <panel_attributes>::StudentList
+--
+-studentArray: Student[]
+-count: int
+--
+
++addStudent(int, String, double): void
++seqsearch(String): int
++numsort(): void
++namesort(): void
++binarySearch(int): int
+-increaseSize(): void
++toString(): String
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>20</y>
+      <w>220</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>::Driver
+--
+-mystudent: StudentList
+--
++main(String[]): void
++seqsearch(StudentList): void
++binsearch(StudentList): void
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>470</x>
+      <y>240</y>
+      <w>30</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>230</x>
+      <y>90</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>90.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>

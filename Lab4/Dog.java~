@@ -1,0 +1,14 @@
+// Program Name   Dog.java
+// Course         CSE1302J
+// Name           Travis Clement
+// Assignment     Lab 4
+// Due Date       6/1/2015
+// Purpose        Class for adding up 2D array elements by column and by row
+
+
+
+import java.util.Scanner;
+
+public class Dog
+{
+}

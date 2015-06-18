@@ -1,0 +1,20 @@
+
+> run Driver
+Get Method Test Second Student
+Name: John Doe
+Social Security Number: 987654321
+GPA: 4.0
+------------------------------------
+toString Method test
+Student Name: Bob Smith
+Social Security Number: 123456789
+GPA: 3.5
+
+equals method first test
+Is firstStudent equal to secondStudent - true/false? false
+
+equals method second test
+Is firstStudent equal to thirdStudent - true/false? true
+
+Coded by Travis Clement
+> 

@@ -1,0 +1,78 @@
+/*
+ * File: AlternatingArray.java
+ * Name: Travis Clement
+ * Class: CSCI 1301 - Section 100
+ * Assignement: HW02 - problem 6.27
+ * --------------------
+ * This program takes two arrays values and then 
+ * alternates the values one at a time 
+ */
+
+
+import java.util.Scanner;
+import java.util.ArrayList;
+
+public class AlternatingArrayList
+{
+    
+    public static void main(String[] args) 
+    {
+        
+        //gather first array list of data from console
+        Scanner in = new Scanner(System.in);
+        ArrayList<Integer> firstList = new ArrayList<Integer>();
+        System.out.print("Please enter first list of numbers - Press q to quit");
+        while (in.hasNextInt()) 
+        { 
+            firstList.add(in.nextInt()); 
+        }
+        in.close();
+        
+        //gather second array list of data from console
+        Scanner second = new Scanner(System.in);
+        ArrayList<Integer> secondList = new ArrayList<Integer>();
+        System.out.print("Please enter second list of numbers-  Press q to quit");
+        while (second.hasNextInt()) 
+        { 
+            secondList.add(second.nextInt()); 
+        }
+        second.close();
+        
+        
+        //Output the values from the merged arraylist
+        for (int values : merge(firstList,secondList)) 
+        { 
+            System.out.println(values); 
+        }
+        
+    }
+    
+    
+    //Method to do the alternating of the arrays. 
+    public static ArrayList<Integer> merge(ArrayList<Integer> a, ArrayList<Integer> b)
+    {
+        ArrayList<Integer> finalList = new ArrayList<Integer>();
+        int i = 0;  //incrementer for a array
+        int j = 0;  //incrementer for b array
+        
+        //loop through each array
+        while (i < a.size() || j < b.size())
+        {
+            if (i < a.size())
+            {
+                finalList.add(a.get(i));
+                i++;
+            }
+            
+            if (j < b.size())
+            {
+                finalList.add(b.get(j));
+                j++;
+            }
+        }
+        return finalList;
+        
+    }
+}
+
+    

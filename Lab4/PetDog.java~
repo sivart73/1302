@@ -1,0 +1,28 @@
+// Program Name   Petdog.java
+// Course         CSE1302J
+// Name           Travis Clement
+// Assignment     Lab 4
+// Due Date       6/1/2015
+// Purpose        Class for creating pet dog objects
+
+
+
+import java.util.Scanner;
+
+public class PetDog extends
+{
+  protected String owner;
+  protected String address;
+  public Petog ()
+  {
+ 
+  }
+  
+  public Petdog (String abreed,int aweight,char asex,int month,int day,int year,String anowner,String anaddress)
+  {
+     super(abread,aweight,asex,month,day,year)
+     owner = anowner;
+     address = anaddress;
+  }
+  
+}

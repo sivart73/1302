@@ -1,0 +1,149 @@
+Welcome to DrJava.  Working directory is /Users/travisclement/Google Drive/Summer2015/1302/Lab2
+> run Driver
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+
+Total Price: $6.00
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+banana	$3.25		2	$6.50
+
+Total Price: $12.50
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+banana	$3.25		2	$6.50
+car	$500.00		1	$500.00
+
+Total Price: $512.50
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+banana	$3.25		2	$6.50
+car	$500.00		1	$500.00
+dog	$50.00		2	$100.00
+
+Total Price: $612.50
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+banana	$3.25		2	$6.50
+car	$500.00		1	$500.00
+dog	$50.00		2	$100.00
+elephant	$1,000.00		10	$10,000.00
+
+Total Price: $10,612.50
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+banana	$3.25		2	$6.50
+car	$500.00		1	$500.00
+dog	$50.00		2	$100.00
+elephant	$1,000.00		10	$10,000.00
+fan	$20.00		1	$20.00
+
+Total Price: $10,632.50
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+banana	$3.25		2	$6.50
+car	$500.00		1	$500.00
+dog	$50.00		2	$100.00
+elephant	$1,000.00		10	$10,000.00
+fan	$20.00		1	$20.00
+gas	$15.75		2	$31.50
+
+Total Price: $10,664.00
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+banana	$3.25		2	$6.50
+car	$500.00		1	$500.00
+dog	$50.00		2	$100.00
+elephant	$1,000.00		10	$10,000.00
+fan	$20.00		1	$20.00
+gas	$15.75		2	$31.50
+helicopter	$250.50		3	$751.50
+
+Total Price: $11,415.50
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Enter the name of the item:  [DrJava Input Box]
+Enter the unit price:  [DrJava Input Box]
+Enter the quantity:  [DrJava Input Box]
+
+Shopping Cart
+
+Item	Unit Price		Quantity	Total
+apple	$3.00		2	$6.00
+banana	$3.25		2	$6.50
+car	$500.00		1	$500.00
+dog	$50.00		2	$100.00
+elephant	$1,000.00		10	$10,000.00
+fan	$20.00		1	$20.00
+gas	$15.75		2	$31.50
+helicopter	$250.50		3	$751.50
+igloo	$45.00		4	$180.00
+
+Total Price: $11,595.50
+
+Continue shopping (y/n)?  [DrJava Input Box]
+Please pay: $11,595.50
+Coded by Travis Clement
+> 

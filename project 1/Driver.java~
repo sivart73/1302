@@ -1,0 +1,17 @@
+// Program Name   Driver.java
+// Course         CSE1302J
+// Name           Travis Clement
+// Assignment     Lab 2
+// Due Date       5/27/2015
+// Purpose        This is a Driver class for testing Item and ShoppingCart classes
+
+
+import java.util.Scanner;  
+public class Driver 
+{     
+  public static void main (String[] args)     
+  {  
+
+  } 
+  
+} 

@@ -1,0 +1,21 @@
+2.	Answer these three review questions on a separate sheet of paper and attach to lab.a.	Code a segment of a program to assign the value of 5 to every position in the array A declared below: int [][] A = new int [20][12];
+
+ for (int i = 0; i < A.length; i++)
+ {
+  for (int j = 0; j < A[i].length; j++)
+  {
+   A[i][j] = 5;
+  }
+ }
+
+
+b.)	Given a 2-D array called B, what expression indicates the number of rows B.length?  The number of columns B[0].length?
+
+
+c.	Draw a diagram that would represent the table with the values given in the declaration below.int [][] A = {{3,-2,4,0} , {0,8,10,12} , {5,5,1,2}};
+
+
+Answer:
+3  -2   4   0
+0   8  10  12
+5   5   1   1 
